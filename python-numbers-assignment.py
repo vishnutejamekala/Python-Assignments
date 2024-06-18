@@ -19,5 +19,5 @@ WAP to assign 99 digits integer number to a variable.
 Check the value, size and type of the variable after the assignment.
 '''
 import sys
-v=99
+v=123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 print("v: ",v,",type: ",type(v),",size in bytes: ",sys.getsizeof(v))
